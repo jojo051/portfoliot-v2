@@ -15,7 +15,7 @@
     "name": "Tonton sommelier alpha",
     "lien": "https://tontonsommelier.com",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/500",
+    "imageDemo": "https://picsum.photos/500/400",
     "image": {
       "1":"https://picsum.photos/100/100"}
   },
@@ -25,7 +25,7 @@
     "name": "Cocktail paradise",
     "lien": "https://cocktail-paradise.netlify.app/",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/500",
+    "imageDemo": "https://picsum.photos/500/300",
     "image": {
       "1":"https://picsum.photos/100/100"}
   },
@@ -35,7 +35,7 @@
     "name": "Sacrée campus",
     "lien": "https://cocktail-paradise.netlify.app/",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/500",
+    "imageDemo": "https://picsum.photos/500/200",
     "image": {
       "1":"https://picsum.photos/100/100"}
     }
