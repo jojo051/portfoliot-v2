@@ -5,7 +5,7 @@ import Header from './Header';
 
 const Home =()=>{
   return(
-    <div className="bg-primary text-primary md:h-screen  ">
+    <div className="bg-primary text-primary max-h-full">
       <Header/>
       <Main/>
       <Foot/>
