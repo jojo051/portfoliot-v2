@@ -1,23 +1,25 @@
-import React from 'react';
-import myhead from '../image/zoomjojo.png';
-import Slider from './Slider';
+import React from "react";
+import myhead from "../image/zoomjojo.png";
+import Slider from "./Slider";
 
-const Main=()=> {
+const Main = () => {
   return (
     <>
-      <div className="bg-primary flex space-x-10  mx-10 mt-10">
-        <div className="flex items-center w-2/6 ">
-          <img 
-          src={myhead}
-          alt="Rodier joel" 
-          />
+      <div className="bg-primary flex space-x-10 mt-10 mx-10 justify-center">
+        <div className="">
+          <img className="" src={myhead} alt="Rodier joel" />
         </div>
-        <div className="w-2/6 flex flex-col justify-center">
-          <h2 className="text-2xl"> BIENVENUE </h2>
-          <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla officiis dolores, amet nemo commodi adipisci rem voluptate cumque deserunt tenetur cum aliquam repudiandae? Ad, perspiciatis! Quae commodi quam labore vero?</p>
+        <div className="flex flex-col items-center">
+          <h2 className="text-2xl font-black justify-center"> BIENVENUE </h2>
+          <p className="">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
+            officiis dolores, amet nemo commodi adipisci rem voluptate cumque
+            deserunt tenetur cum aliquam repudiandae? Ad, perspiciatis! Quae
+            commodi quam labore vero?
+          </p>
         </div>
-        <div className="flex-auto">
-          <h2 className="text-2xl text-center">SKILL</h2>
+        <div className="">
+          <h2 className="text-2xl text-center font-black">SKILL</h2>
           <ul>
             <li className="text-center">Html</li>
             <li className="text-center">Css</li>
@@ -28,9 +30,9 @@ const Main=()=> {
         </div>
       </div>
       <div>
-        <Slider/>
+        <Slider />
       </div>
     </>
-  )
-}
+  );
+};
 export default Main;

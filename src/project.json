@@ -1,46 +1,80 @@
-{"projects":[
-  {
-    "id":1,
-    "path":"tontonsommelier",
-    "name": "Tonton sommelier",
-    "lien": "https://tontonsommelier-app.com",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/500",
-    "image": {
-      "1":"https://picsum.photos/100/100"}
-  },
-  {
-    "id":2,
-    "path":"tontonsommelieralpha",
-    "name": "Tonton sommelier alpha",
-    "lien": "https://tontonsommelier.com",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/400",
-    "image": {
-      "1":"https://picsum.photos/100/100"}
-  },
-  {
-    "id":3,
-    "path":"cocktailparadise",
-    "name": "Cocktail paradise",
-    "lien": "https://cocktail-paradise.netlify.app/",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/300",
-    "image": {
-      "1":"https://picsum.photos/100/100"}
-  },
-  {
-    "id":4,
-    "path":"sacreecampus",
-    "name": "Sacrée campus",
-    "lien": "https://cocktail-paradise.netlify.app/",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "imageDemo": "https://picsum.photos/500/200",
-    "image": {
-      "1":"https://picsum.photos/100/100"}
+{
+  "projects": [
+    {
+      "id": 1,
+      "path": "tontonsommelier",
+      "name": "Tonton sommelier",
+      "link": "https://tontonsommelier-app.com",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageDemo": "https://picsum.photos/450/450",
+      "image": [
+        {
+          "img": "https://picsum.photos/400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "path": "tontonsommelieralpha",
+      "name": "Tonton sommelier alpha",
+      "link": "https://tontonsommelier.com",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageDemo": "https://picsum.photos/450/451",
+      "image": [
+        {
+          "img": "https://picsum.photos/400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "path": "cocktailparadise",
+      "name": "Cocktail paradise",
+      "link": "https://cocktail-paradise.netlify.app/",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageDemo": "https://picsum.photos/450/452",
+      "image": [
+        {
+          "img": "https://picsum.photos/400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "path": "sacreecampus",
+      "name": "Sacrée campus",
+      "link": "https://cocktail-paradise.netlify.app/",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageDemo": "https://picsum.photos/450/453",
+      "image": [
+        {
+          "img": "https://picsum.photos/400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        },
+        {
+          "img": "https://picsum.photos//400/400"
+        }
+      ]
     }
   ]
 }
-  
-  
-
