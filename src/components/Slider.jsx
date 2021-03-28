@@ -2,7 +2,6 @@ import React from "react";
 import projects from "../project.json";
 import Carousel from "react-elastic-carousel";
 import { Link } from "react-router-dom";
-import Projects from "./Project";
 const data = projects.projects;
 
 const Slider = () => {

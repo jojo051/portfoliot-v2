@@ -6,16 +6,16 @@
       "name": "Tonton sommelier",
       "link": "https://tontonsommelier-app.com",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "imageDemo": "https://picsum.photos/450/450",
+      "imageDemo": "https://raw.githubusercontent.com/ttRmz/8Gag/master/uploads/tumblr_m6cyknypHn1rr5g4so1_1280.jpg",
       "image": [
         {
           "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/200"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/100"
         }
       ]
     },
@@ -25,16 +25,16 @@
       "name": "Tonton sommelier alpha",
       "link": "https://tontonsommelier.com",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "imageDemo": "https://picsum.photos/450/451",
+      "imageDemo": "https://picsum.photos/500/500",
       "image": [
         {
           "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         }
       ]
     },
@@ -44,16 +44,16 @@
       "name": "Cocktail paradise",
       "link": "https://cocktail-paradise.netlify.app/",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "imageDemo": "https://picsum.photos/450/452",
+      "imageDemo": "https://picsum.photos/800/800",
       "image": [
         {
           "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "name": "Sacrée campus",
       "link": "https://cocktail-paradise.netlify.app/",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "imageDemo": "https://picsum.photos/450/453",
+      "imageDemo": "https://picsum.photos/100/100",
       "image": [
         {
           "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         },
         {
-          "img": "https://picsum.photos//400/400"
+          "img": "https://picsum.photos/400/400"
         }
       ]
     }

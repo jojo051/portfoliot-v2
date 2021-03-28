@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Redirect,
 } from "react-router-dom";
 import AboutUs from "./components/AboutUs";
 import MyCv from "./components/MyCv";

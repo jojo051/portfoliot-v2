@@ -12,20 +12,20 @@ const MyProjects = () => {
   const project = data.map((project)=>project).filter((o)=>o.path === params.id)
   console.log(project,params.id)
   return (
-    <div className="bg-primary text-primary h-screen max-h-full"> 
+    <div className="bg-primary text-primary h-screen "> 
       <Header />
-      <div>
-        <h1 className="text-4xl text-center mt-10 font-black">{params.id}</h1>
-        <div className="flex justify-center space-x-10 mt-10">
-        {project[0].image.map((i)=> <img className="w-2/12" src={i.img} alt={project.name} /> )}
+      <div className="flex flex-col px-3 sm:px-5" >
+        <h1 className="text-4xl text-center pt-10 font-black">{params.id}</h1>
+        <div className="flex justify-center space-x-5 pt-10 ">
+        {project[0].image.map((i)=> <img className="w-3/12" src={i.img} alt={project.name} /> )}
         </div>
-        <div className="flex items-baseline mt-10 ml-52">
-          <h2 className="text-2xl text-center" >Description du projet:</h2>
-          <p className="pl-2">{project[0].description}</p>
+        <div className="flex items-baseline pt-10 ">
+          <h2 className="text-2xl text-left" >Description du projet:</h2>
+          <p className="pl-3 ">{project[0].description}</p>
         </div>
-        <div className="flex items-baseline my-5 ml-52">
-          <h2 className="text-2xl text-center">Lien:</h2>
-          <a className="pl-2" href={project[0].link} target="_blank"> {project[0].link}</a>
+        <div className="flex items-baseline py-5 ">
+          <h2 className="text-2xl text-left">Lien:</h2>
+          <a className="pl-2" href={project[0].link} target="_blank" rel="noreferrer"> {project[0].link}</a>
         </div>
       </div>
       <Foot />
