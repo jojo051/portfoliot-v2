@@ -17,7 +17,7 @@ const Main = () => {
           Après 12 ans de maitre chien à l'armée de l'air en tant que militaire. Passionné d'informatique depuis longtemps. 
           J’ai décidé de donner du sens à ma carrière professionnelle en me reconvertissant dans les métiers du numérique.
           Autodidacte et curieux de nouvelles technologies, je me suis formé aux bases de la programmation (HTML / CSS et le JS). 
-          J'ai renforcer mes competence en faisaint un formation de 5 mois à la Wild code scool et un stage de 4 mois dans une start up et ensuite obtenue le <span className="font-black">Titre de Développeur web et web mobile</span>.
+          J'ai renforcer mes competence en faisaint un formation de 5 mois à la Wild code scool et un stage de 4 mois dans une start up et ensuite obtenu le <span className="font-black">Titre de Développeur web et web mobile</span>.
           Je suis actuelement à la recherche d'un emploi.
           </p>
         </div>
