@@ -44,16 +44,16 @@
       "name": "Cocktail paradise",
       "link": "https://cocktail-paradise.netlify.app/",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "imageDemo": "https://picsum.photos/800/800",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseAcceuil.png",
       "image": [
         {
-          "img": "https://picsum.photos/400/400"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseChoiseCocktail.png"
         },
         {
-          "img": "https://picsum.photos/400/400"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseChoiseAllCocktail.png"
         },
         {
-          "img": "https://picsum.photos/400/400"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseRandomCocktail.png"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "id": 4,
       "path": "sacreecampus",
       "name": "Sacrée campus",
-      "link": "https://cocktail-paradise.netlify.app/",
+      "link": "https://github.com/BrianLag/sacre-campus/",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "imageDemo": "https://picsum.photos/100/100",
       "image": [
