@@ -3,4 +3,15 @@
 @tailwind utilities;
 
 @layer utilities {
+  .material-icons{
+    border-radius: 2rem;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 15);
+    color: black;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin:1.25rem;
+    padding:0 2rem;
+    text-decoration:none; 
+  }
 } 
