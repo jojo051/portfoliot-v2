@@ -1,32 +1,29 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
   darkMode: false, // or 'media' or 'class'
   // theme: {
   //   extend: {},
   // },
   theme: {
-    backgroundColor: theme => ({
+    backgroundColor: (theme) => ({
+      ...theme("colors"),
 
-      ...theme('colors'),
+      primary: "#1D2226",
 
-      'primary': '#1D2226',
+      secondary: "#ECEDE8",
 
-      'secondary': '#ECEDE8',
-
-      'danger': '#4D4646',
+      carousel: "#D6943C",
     }),
     textColor: {
+      primary: "#ECEDE8",
 
-      'primary': '#ECEDE8',
+      secondary: "ECEDE8",
 
-      'secondary': '#ffed4a',
-
-      'danger': '#e3342f',
-
-    }
+      carousel: "#D6943C",
+    },
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};

@@ -5,7 +5,7 @@ import Header from "./Header";
 
 const Home = () => {
   return (
-    <div className="bg-primary text-primary max-h-full">
+    <div className="bg-primary text-primary flex flex-col flex-wrap">
       <Header />
       <Main />
       <Foot />
