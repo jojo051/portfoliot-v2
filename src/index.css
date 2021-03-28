@@ -2,30 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer utilities {
-  /* arrow left */
-  .rec-arrow-left{
-    background-color:#D6943C !important;
-    color: #ECEDE8 !important;
-  }
-  /* arrow right */
-  .rec-arrow-right{
-    background-color:#D6943C !important;
-    color: #ECEDE8 !important;
-  }
- /* pagination */
- .rec-dot_active{
-  background-color:#D6943C !important;
-  
- }
- .rec-dot{
-  background-color:#D6943C !important;
-  color: black !important;
- }
- .cJeRRR{
-  box-shadow: 0 0 1px 3px #ECEDE8 !important;
- }
- .guuruq{
-  box-shadow: 0 0 1px 3px #1D2226 !important;
- }
-}
