@@ -9,7 +9,7 @@ const MyCv =()=>{
       <Header/>
       <PDFViewer
             document={{
-                url: 'https://arxiv.org/pdf/quant-ph/0410100.pdf',
+                url: 'https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseAcceuil.png',
             }}
         />
       <Foot/>
