@@ -43,7 +43,7 @@
       "path": "cocktailparadise",
       "name": "Cocktail paradise",
       "link": "https://cocktail-paradise.netlify.app/",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "description": "Cocktail paradise est le deuxième projet effectuer en formation, d'une duré de six semaine, c'est un site qui permet de récupérer et traiter une api. Sont but été de travailler en groupe avec la méthode SCRUM, apprendre à utiliser la bibliothèque React js, et de faire appelle a des API. Ne pas hésiter à y faire un tour !!!",
       "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/CocktailParadiseAcceuil.png",
       "image": [
         {
