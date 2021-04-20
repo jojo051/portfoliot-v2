@@ -24,7 +24,7 @@
       "path": "tontonsommelieralpha",
       "name": "Tonton sommelier alpha",
       "link": "https://tontonsommelier.com",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "description": "Tonton Sommelier est le troisième projet effectuer en formation, d'une duré de six semaine, c'est un site qui permet de jouer  de à un jeu de questions réponses dans le but d'en apprendre sur le monde du vin . Sont but été d'interagir avec un client pour crées une application web. Nous avons appris a crées une API avec Node Js et a approfondir nos connaissance avec React.",
       "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierAlpaAcceuil.png",
       "image": [
         {
