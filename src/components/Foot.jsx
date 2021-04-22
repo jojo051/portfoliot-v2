@@ -1,13 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../image/logo-homev2.jpeg"
 
 const Foot = () => {
   return (
     <>
       <hr></hr>
       <div className="bg-primary text-primary flex items-center justify-between text-center px-3 py-1 sm:p-5 lg:p-5">
-      <Link className="text-2xl flex" to="/"><img src={logo} alt="logo-home" width="32px"/>
+      <Link className="text-2xl flex" to="/">
           <h1>RODIER Joël</h1>
         </Link>
         <div className="flex justify-end">
