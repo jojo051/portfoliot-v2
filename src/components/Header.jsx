@@ -10,7 +10,7 @@ const Header = () => {
         </Link>
         <div className="flex justify-end">
           <Link to="/mycv">
-            Mon cv
+            Mon CV
           </Link>
           <Link className="ml-3 sm:ml-3 lg:ml-10" to="/contactme">
             Me contacter
