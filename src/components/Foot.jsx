@@ -12,7 +12,7 @@ const Foot = () => {
         <div className="flex justify-end">
           <a
             className=""
-            href="https://linkedin.com/in/joel-rodier-6280b41a4"
+            href="https://linkedin.com/in/joël-rodier-6280b41a4"
             target="_blank"
             rel="noreferrer"
           >
