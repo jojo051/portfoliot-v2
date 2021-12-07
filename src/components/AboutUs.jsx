@@ -12,7 +12,7 @@ const AboutUs = () => {
         <h2 className="text-2xl pt-10">Voir mon profil</h2>
         <a
           className="text-center pt-3"
-          href="https://linkedin.com/in/joel-rodier-6280b41a4"
+          href="https://linkedin.com/in/joël-rodier-6280b41a4"
           target="_blank"
           rel="noreferrer"
         >

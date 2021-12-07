@@ -59,7 +59,7 @@
     },
     {
       "id": 4,
-      "path": "sacreecampus",
+      "path": "sacrecampus",
       "name": "Sacré campus",
       "link": "https://github.com/BrianLag/sacre-campus/",
       "description": "Sacré campus est le premier projet effectué en formation, d'une duré de deux semaine, c'est un site vitrine de référencement de lieu et d’évènement proche de la Wild Code School. Sont but été de travailler et s'organiser en groupe, d'utiliser les outils \"Git et Figma\", d’apprendre à présenter le projet à d'autre personne  pour en avoir un retour et corriger les erreurs rapportées.",
