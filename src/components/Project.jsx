@@ -8,16 +8,15 @@ const data = projects.projects;
 
 const MyProjects = () => {
   const params = useParams();
+  const project = data.map((project)=>project)
   
-  const project = data.map((project)=>project).filter((o)=>o.path === params.id)
-  console.log(project,params.id,project[0].name)
   return (
     <div className="bg-primary text-primary h-screen"> 
       <Header />
       <div className="bg-primary text-primary flex flex-col px-3 sm:px-5">
         <h1 className="text-4xl text-center pt-10 font-black">{project[0].name}</h1>
         <div className="flex justify-center space-x-5 pt-10">
-        {project[0].image.map((i)=> <img className="w-3/12" src={i.img} alt={project.name}/> )}
+        {project[0].image.map((i,index)=> <img key={index} className="w-3/12" src={i.img} alt={project.name}/> )}
         </div>
         <div className="flex items-baseline pt-10">
           <h2 className="text-2xl text-left">Description du projet:</h2>
