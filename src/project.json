@@ -75,6 +75,25 @@
           "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/SacreeCampusModale.png"
         }
       ]
+    },
+    {
+      "id": 5,
+      "path": "servergraphql",
+      "name": "Server graphQl with nodeJs",
+      "link": "https://github.com/jojo051/ServerNodeJSGraphQL",
+      "description": "Creation d'un serveur GraphQl avec NodeJs et Express,pour comprendre et apprendre le fonctionnement de ces technologies",
+      "imageDemo": "",
+      "image": [
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        },
+        {
+          "img": ""
+        }
+      ]
     }
   ]
 }
