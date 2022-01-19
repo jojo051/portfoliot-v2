@@ -82,16 +82,16 @@
       "name": "Server graphQl with nodeJs",
       "link": "https://github.com/jojo051/ServerNodeJSGraphQL",
       "description": "Creation d'un serveur GraphQl avec NodeJs et Express,pour comprendre et apprendre le fonctionnement de ces technologies",
-      "imageDemo": "",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png",
       "image": [
         {
-          "img": ""
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLMutation.png"
         },
         {
-          "img": ""
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLQuery.png"
         },
         {
-          "img": ""
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png"
         }
       ]
     }
