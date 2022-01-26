@@ -101,16 +101,16 @@
       "name": "React movies",
       "link": "https://github.com/jojo051/movies-react-sass",
       "description": "Petit projet pour tester le nouveau rooting de react-router-dom, et aussi pour tester Sass. L'api que j'utilise est https://api.themoviedb.org",
-      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-accueil.png",
       "image": [
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLMutation.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-accueil.png"
         },
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLQuery.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-cdc.png"
         },
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sasscdcv.png"
         }
       ]
     }
