@@ -2,25 +2,6 @@
   "projects": [
     {
       "id": 1,
-      "path": "tontonsommelier",
-      "name": "Tonton sommelier",
-      "link": "https://tontonsommelier-app.com",
-      "description": "Tonton Sommelier est la continuité du projet Tonton Sommelier Alpha, je suis reparti de zéro car toutes la maquette a été changer et le fonctionnement du jeu aussi. Pour le back-end j'ai utiliser AWS et graphQl, pour le front je suis rester sur React, Redux et React Router. Ce projet je l'ai effectuer en formation avec le quel j'ai eu mon Titre de développeur web.",
-      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierAcceuil.png",
-      "image": [
-        {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierProfil.png"
-        },
-        {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierQuestion.png"
-        },
-        {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierResponse.png"
-        }
-      ]
-    },
-    {
-      "id": 2,
       "path": "tontonsommelieralpha",
       "name": "Tonton sommelier alpha",
       "link": "https://tontonsommelier.com",
@@ -40,6 +21,25 @@
     },
     {
       "id": 3,
+      "path": "sacrecampus",
+      "name": "Sacré campus",
+      "link": "https://github.com/BrianLag/sacre-campus/",
+      "description": "Sacré campus est le premier projet effectué en formation, d'une duré de deux semaine, c'est un site vitrine de référencement de lieu et d’évènement proche de la Wild Code School. Sont but été de travailler et s'organiser en groupe, d'utiliser les outils \"Git et Figma\", d’apprendre à présenter le projet à d'autre personne  pour en avoir un retour et corriger les erreurs rapportées.",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/sacr%C3%A9eCampusAcceuil.png",
+      "image": [
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/sacr%C3%A9eCampusAcceuil.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/SacreeCampusMenu.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/SacreeCampusModale.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "path": "cocktailparadise",
       "name": "Cocktail paradise",
       "link": "https://cocktail-paradise.netlify.app/",
@@ -59,20 +59,20 @@
     },
     {
       "id": 4,
-      "path": "sacrecampus",
-      "name": "Sacré campus",
-      "link": "https://github.com/BrianLag/sacre-campus/",
-      "description": "Sacré campus est le premier projet effectué en formation, d'une duré de deux semaine, c'est un site vitrine de référencement de lieu et d’évènement proche de la Wild Code School. Sont but été de travailler et s'organiser en groupe, d'utiliser les outils \"Git et Figma\", d’apprendre à présenter le projet à d'autre personne  pour en avoir un retour et corriger les erreurs rapportées.",
-      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/sacr%C3%A9eCampusAcceuil.png",
+      "path": "tontonsommelier",
+      "name": "Tonton sommelier",
+      "link": "https://tontonsommelier-app.com",
+      "description": "Tonton Sommelier est la continuité du projet Tonton Sommelier Alpha, je suis reparti de zéro car toutes la maquette a été changer et le fonctionnement du jeu aussi. Pour le back-end j'ai utiliser AWS et graphQl, pour le front je suis rester sur React, Redux et React Router. Ce projet je l'ai effectuer en formation avec le quel j'ai eu mon Titre de développeur web.",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierAcceuil.png",
       "image": [
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/sacr%C3%A9eCampusAcceuil.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierProfil.png"
         },
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/SacreeCampusMenu.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierQuestion.png"
         },
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/SacreeCampusModale.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/TontonSommelierResponse.png"
         }
       ]
     },
@@ -82,6 +82,25 @@
       "name": "Server graphQl with nodeJs",
       "link": "https://github.com/jojo051/ServerNodeJSGraphQL",
       "description": "Creation d'un serveur GraphQl avec NodeJs et Express,pour comprendre et apprendre le fonctionnement de ces technologies",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png",
+      "image": [
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLMutation.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLQuery.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "path": "movies-react-sass",
+      "name": "React movies",
+      "link": "https://github.com/jojo051/movies-react-sass",
+      "description": "Petit projet pour tester le nouveau rooting de react-router-dom, et aussi pour tester Sass. L'api que j'utilise est https://api.themoviedb.org",
       "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/serverGraphQLApp.png",
       "image": [
         {

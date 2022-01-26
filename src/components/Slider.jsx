@@ -19,7 +19,7 @@ const Slider = () => {
               width="auto"
             />
           </Link>
-        ))}
+        )).reverse()}
       </Carousel>
     </div>
   );
