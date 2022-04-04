@@ -78,7 +78,7 @@
     },
     {
       "id": 5,
-      "path": "servergraphql",
+      "path": "server-graphql",
       "name": "Server graphQl with nodeJs",
       "link": "https://github.com/jojo051/ServerNodeJSGraphQL",
       "description": "Creation d'un serveur GraphQl avec NodeJs et Express,pour comprendre et apprendre le fonctionnement de ces technologies",
@@ -104,13 +104,29 @@
       "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-accueil.png",
       "image": [
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-accueil.png"
-        },
-        {
           "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-cdc.png"
         },
         {
-          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sasscdcv.png"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/movies-react-sass-recherche.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "path": "patricia-vanet-sophrologue-naturopathe",
+      "name": "Patricia Vanet sophrologue naturopathe",
+      "link": "https://patricia-vanet-sophrologue-naturopathe.fr/",
+      "description": "Creation d'un site internet",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/patricia-accueil-site.png",
+      "image": [
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/patricia-accueil-site.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/patricia-accueill-mobile.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/patricia-page-site.png"
         }
       ]
     }
