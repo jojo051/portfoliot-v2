@@ -24,12 +24,12 @@ const Main = () => {
         <div className="pb-3 sm:pb-5 sm:w-2/6 lg:w-1/6">
           <h2 className="text-2xl text-center font-black">My SKILL</h2>
           <ul>
-            <li className="text-center">React / Next js</li>
-            <li className="text-center">Java script</li>
+            <li className="text-center">React JS</li>
+            <li className="text-center">Java Script</li>
             <li className="text-center">AWS</li>
             <li className="text-center">Html</li>
             <li className="text-center">Css / Taillwind</li>
-            <li className="text-center">Node js</li>
+            <li className="text-center">Node js / express</li>
             <li className="text-center">GraphQl / My sql</li>
 
           </ul>
