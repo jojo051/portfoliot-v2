@@ -129,6 +129,25 @@
           "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/patricia-page-site.png"
         }
       ]
+    },
+    {
+      "id": 8,
+      "path": "Photostock",
+      "name": "photostock",
+      "link": "https://github.com/jojo051/photostock",
+      "description": "Creation d'un gestionnaire d'images",
+      "imageDemo": "uploadFile1",
+      "image": [
+        {
+          "img": "uploadFile1"
+        },
+        {
+          "img": "uploadFile2"
+        },
+        {
+          "img": "uploadFile3"
+        }
+      ]
     }
   ]
 }
