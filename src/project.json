@@ -136,16 +136,16 @@
       "name": "photostock",
       "link": "https://github.com/jojo051/photostock",
       "description": "Creation d'un gestionnaire d'images",
-      "imageDemo": "uploadFile1",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile1",
       "image": [
         {
-          "img": "uploadFile1"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile1"
         },
         {
-          "img": "uploadFile2"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile2"
         },
         {
-          "img": "uploadFile3"
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile3"
         }
       ]
     }
