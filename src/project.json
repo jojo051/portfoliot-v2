@@ -148,6 +148,25 @@
           "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile3.png"
         }
       ]
+    },
+    {
+      "id": 9,
+      "path": "tuto-angular",
+      "name": "Tuto Angular",
+      "link": "https://github.com/jojo051/test-angular",
+      "description": "Suivi d'un tutoriel angular fait par Simon Dieny. Lien du tutoriel: https://www.youtube.com/watch?v=DTIYVffhJuU ",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/Pokedex-acceuil.png",
+      "image": [
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/Pokedex-acceuil.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/Pokedex-modif.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/Pokedex-fiche.png"
+        }
+      ]
     }
   ]
 }
