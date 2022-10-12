@@ -167,6 +167,25 @@
           "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/Pokedex-fiche.png"
         }
       ]
+    },
+    {
+      "id": 10,
+      "path": "petits-projets",
+      "name": "Mes petits Projets ",
+      "link": "https://github.com/jojo051/working-algorithm",
+      "description": "Petit exercices pour m'entrainé",
+      "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/mes-petit-projet-accueil.png",
+      "image": [
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/mes-petit-projet-calc.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/mes-petit-projet-mdp.png"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/mes-petit-projet-form.png.png"
+        }
+      ]
     }
   ]
 }
