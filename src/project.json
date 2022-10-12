@@ -132,8 +132,8 @@
     },
     {
       "id": 8,
-      "path": "Photostock",
-      "name": "photostock",
+      "path": "photostock",
+      "name": "Photostock",
       "link": "https://github.com/jojo051/photostock",
       "description": "Creation d'un gestionnaire d'images",
       "imageDemo": "https://raw.githubusercontent.com/jojo051/portfoliot-v2/main/src/image/uploadFile1.png",
