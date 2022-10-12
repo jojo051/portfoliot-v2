@@ -1,7 +1,7 @@
 import React from "react";
 import Foot from "./Foot";
 import Header from "./Header";
-import RODIERJoel from "../image/RODIERJoel.bmp";
+import RODIERJoel from "../image/RODIERJoel.png";
 
 const MyCv = () => {
   return (
