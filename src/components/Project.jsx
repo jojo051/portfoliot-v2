@@ -9,7 +9,6 @@ const data = projects.projects;
 const MyProjects = () => {
   const params = useParams();
   const project = data.filter((o)=>o.path === params.id)
-  //console.log(project,params.id,project[0].name)
   return (
     <div className="bg-primary text-primary h-screen"> 
       <Header />

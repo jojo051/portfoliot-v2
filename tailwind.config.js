@@ -17,7 +17,7 @@ module.exports = {
     textColor: {
       primary: "#ECEDE8",
 
-      secondary: "ECEDE8",
+      secondary: "#1d2226",
 
       carousel: "#D6943C",
     },

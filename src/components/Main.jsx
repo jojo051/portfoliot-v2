@@ -31,7 +31,6 @@ const Main = () => {
             <li className="text-center">Css / Taillwind</li>
             <li className="text-center">Node js / express</li>
             <li className="text-center">GraphQl / My sql</li>
-
           </ul>
         </div>
       </div>

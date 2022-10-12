@@ -6,7 +6,7 @@ const Foot = () => {
     <>
       <hr></hr>
       <div className="bg-primary text-primary flex items-center justify-between text-center px-3 py-1 sm:p-5 lg:p-5">
-      <Link className="text-2xl flex" to="/">
+        <Link className="text-2xl flex" to="/">
           <h1>RODIER Joël</h1>
         </Link>
         <div className="flex justify-end">

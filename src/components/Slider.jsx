@@ -9,10 +9,10 @@ const Slider = () => {
     <div className="bg-primary flex justify-center">
       <Carousel className="max-w-screen-sm">
         {data.map((i, index) => (
-          <Link key={index} to={`/projects/${i.path}`}>
-            <p className="text-center text-4xl font-black">{i.name}</p>
+          <Link className="hover:bg-white hover:text-secondary rounded-lg" key={index} to={`/projects/${i.path}`}>
+            <p className="text-center text-4xl font-black   ">{i.name}</p>
             <img
-              className="h-full w-auto "
+              className="h-full w-auto  "
               src={i.imageDemo}
               alt={i.name}
               height="auto"
