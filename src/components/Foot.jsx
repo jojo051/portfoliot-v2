@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import linkedin from "../image/linkedin.png";
+import github from "../image/github.png"
 
 const Foot = () => {
   return (
@@ -16,7 +18,7 @@ const Foot = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Linked In
+          <img className="h-10" src={linkedin} alt="linkedin logo" />
           </a>
           <a
             className="ml-3 sm:ml-3 lg:ml-10"
@@ -24,7 +26,7 @@ const Foot = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Git Hub
+            <img className="h-10" src={github} alt="github logo" />
           </a>
         </div>
       </div>
